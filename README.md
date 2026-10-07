@@ -2,15 +2,16 @@
 
 This project contains a polished single-page portfolio for J.B. Volkert, a first-year mechanical engineering student at Lehigh University.
 
+## Website
+
+[Visit my website](https://jov225-cmd.github.io/portfolio2/)
+
 ## Preview locally
 
 From this folder, run:
 
 ```bash
 python3 -m http.server 8000
-```
-
-Then open [http://localhost:8000](http://localhost:8000) in your browser.
 
 ## Files
 
@@ -21,3 +22,5 @@ Then open [http://localhost:8000](http://localhost:8000) in your browser.
 ## Customize
 
 Edit the content in `index.html` to replace the profile information, project descriptions, and contact details with your own. Update the email links and hero image there as needed.
+
+[def]: http://localhost:8000
