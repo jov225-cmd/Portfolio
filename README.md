@@ -14,7 +14,7 @@ From this folder, run:
 python3 -m http.server 8000
 
 ## Files
-
+ 
 - `index.html` — page structure and portfolio content
 - `styles.css` — visual design, responsive layout, and animations
 - `script.js` — mobile navigation, scroll reveals, and dynamic footer year
