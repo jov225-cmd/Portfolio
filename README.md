@@ -6,12 +6,17 @@ This project contains a polished single-page portfolio for J.B. Volkert, a first
 
 [Visit my website](https://jov225-cmd.github.io/portfolio2/)
 
+## FYRE Assignments
+
+[View my FYRE Assignments repository](https://github.com/jov225-cmd/FYRE-Assignments)
+
 ## Preview locally
 
 From this folder, run:
 
 ```bash
 python3 -m http.server 8000
+```
 
 ## Files
  
