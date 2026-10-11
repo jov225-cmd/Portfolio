@@ -4,7 +4,7 @@ This project contains a polished single-page portfolio for J.B. Volkert, a first
 
 ## Website
 
-[Visit my website](https://jov225-cmd.github.io/portfolio2/)
+[Visit my website](https://jov225-cmd.github.io/Portfolio/)
 
 ## FYRE Assignments
 
